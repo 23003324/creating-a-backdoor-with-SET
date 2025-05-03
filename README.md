@@ -27,12 +27,15 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
 
 ![Alt text](img/setoolkit2.png)
-![Alt text](img/set1.png)
+![set1](https://github.com/user-attachments/assets/1886f95c-c372-441c-8c63-6badd1c2e827)
+
+
 
 
 It displays the following menu and select 2 for Website Attack Vectors:
 
-![Alt text](img/set2.png)
+![set2](https://github.com/user-attachments/assets/10329492-b036-46f4-8ea8-f0c972e6bc5e)
+
 
 The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
 
