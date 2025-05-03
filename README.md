@@ -38,7 +38,7 @@ The website Attack Vectors displays the following menu. In this menu3 for Creden
 
 ![Alt text](img/set3.png)
 
-The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
+The Credential Harvester Attack Method displays the following menu. In git push origin mthis menu1 for Web Templates is selected:
 ![Alt text](img/webattack.png)
 
 
